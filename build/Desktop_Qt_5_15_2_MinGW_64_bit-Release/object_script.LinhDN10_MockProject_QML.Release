@@ -1,0 +1,16 @@
+release/MusicController.o
+release/Song.o
+release/SongModel.o
+release/main.o
+release/ListSongScreen_qml.o
+release/MainScreen_qml.o
+release/Header_qml.o
+release/main_qml.o
+release/CommonItem_MovingText_qml.o
+release/CommonItem_PathElement_qml.o
+release/CommonItem_MyButton_qml.o
+release/qmlcache_loader.o
+release/qrc_qml_qmlcache.o
+release/moc_MusicController.o
+release/moc_Song.o
+release/moc_SongModel.o

@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Header.qml</file>
+        <file>Image/conmuabanggia.jpeg</file>
+        <file>Image/memes.jpeg</file>
+        <file>Image/nangamxadan.jpg</file>
+        <file>MainScreen.qml</file>
+        <file>CommonItem/MyButton.qml</file>
+        <file>Image/arrow-return-left.svg</file>
+        <file>Image/PlayingButton/next_button.png</file>
+        <file>Image/PlayingButton/pause_button.png</file>
+        <file>Image/PlayingButton/play_button.png</file>
+        <file>Image/PlayingButton/playing.gif</file>
+        <file>Image/PlayingButton/prev_button.png</file>
+        <file>Image/StatusButton/home.png</file>
+        <file>Image/StatusButton/list.png</file>
+        <file>Image/StatusButton/return.png</file>
+        <file>Image/PlayingButton/point.png</file>
+        <file>ListSongScreen.qml</file>
+        <file>CommonItem/MovingText.qml</file>
+        <file>Image/playing.gif</file>
+        <file>Image/background.jpeg</file>
+        <file>Image/background.avif</file>
+        <file>Image/background.jpg</file>
+        <file>CommonItem/PathElement.qml</file>
+        <file>Image/StatusButton/folder.png</file>
+        <file>Image/PlayingButton/shuffle (1).png</file>
+        <file>Image/PlayingButton/shuffle.png</file>
+        <file>Image/PlayingButton/refresh (1).png</file>
+        <file>Image/PlayingButton/refresh.png</file>
+        <file>Image/loupe.png</file>
+    </qresource>
+</RCC>

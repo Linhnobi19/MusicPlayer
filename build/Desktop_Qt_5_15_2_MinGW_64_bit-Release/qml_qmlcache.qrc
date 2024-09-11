@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">../../main.qml</file>
+        <file alias="Header.qml">../../Header.qml</file>
+        <file alias="Image/conmuabanggia.jpeg">../../Image/conmuabanggia.jpeg</file>
+        <file alias="Image/memes.jpeg">../../Image/memes.jpeg</file>
+        <file alias="Image/nangamxadan.jpg">../../Image/nangamxadan.jpg</file>
+        <file alias="MainScreen.qml">../../MainScreen.qml</file>
+        <file alias="CommonItem/MyButton.qml">../../CommonItem/MyButton.qml</file>
+        <file alias="Image/arrow-return-left.svg">../../Image/arrow-return-left.svg</file>
+        <file alias="Image/PlayingButton/next_button.png">../../Image/PlayingButton/next_button.png</file>
+        <file alias="Image/PlayingButton/pause_button.png">../../Image/PlayingButton/pause_button.png</file>
+        <file alias="Image/PlayingButton/play_button.png">../../Image/PlayingButton/play_button.png</file>
+        <file alias="Image/PlayingButton/playing.gif">../../Image/PlayingButton/playing.gif</file>
+        <file alias="Image/PlayingButton/prev_button.png">../../Image/PlayingButton/prev_button.png</file>
+        <file alias="Image/StatusButton/home.png">../../Image/StatusButton/home.png</file>
+        <file alias="Image/StatusButton/list.png">../../Image/StatusButton/list.png</file>
+        <file alias="Image/StatusButton/return.png">../../Image/StatusButton/return.png</file>
+        <file alias="Image/PlayingButton/point.png">../../Image/PlayingButton/point.png</file>
+        <file alias="ListSongScreen.qml">../../ListSongScreen.qml</file>
+        <file alias="CommonItem/MovingText.qml">../../CommonItem/MovingText.qml</file>
+        <file alias="Image/playing.gif">../../Image/playing.gif</file>
+        <file alias="Image/background.jpeg">../../Image/background.jpeg</file>
+        <file alias="Image/background.avif">../../Image/background.avif</file>
+        <file alias="Image/background.jpg">../../Image/background.jpg</file>
+        <file alias="CommonItem/PathElement.qml">../../CommonItem/PathElement.qml</file>
+        <file alias="Image/StatusButton/folder.png">../../Image/StatusButton/folder.png</file>
+        <file alias="Image/PlayingButton/shuffle (1).png">../../Image/PlayingButton/shuffle (1).png</file>
+        <file alias="Image/PlayingButton/shuffle.png">../../Image/PlayingButton/shuffle.png</file>
+        <file alias="Image/PlayingButton/refresh (1).png">../../Image/PlayingButton/refresh (1).png</file>
+        <file alias="Image/PlayingButton/refresh.png">../../Image/PlayingButton/refresh.png</file>
+        <file alias="Image/loupe.png">../../Image/loupe.png</file>
+    </qresource>
+</RCC>

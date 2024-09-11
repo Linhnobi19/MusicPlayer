@@ -1,0 +1,16 @@
+debug/MusicController.o
+debug/Song.o
+debug/SongModel.o
+debug/main.o
+debug/ListSongScreen_qml.o
+debug/MainScreen_qml.o
+debug/Header_qml.o
+debug/main_qml.o
+debug/CommonItem_MovingText_qml.o
+debug/CommonItem_PathElement_qml.o
+debug/CommonItem_MyButton_qml.o
+debug/qmlcache_loader.o
+debug/qrc_qml_qmlcache.o
+debug/moc_MusicController.o
+debug/moc_Song.o
+debug/moc_SongModel.o
